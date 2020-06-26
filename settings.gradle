@@ -1,0 +1,3 @@
+include ':viewinject'
+include ':app'
+rootProject.name = "ViewInject"
